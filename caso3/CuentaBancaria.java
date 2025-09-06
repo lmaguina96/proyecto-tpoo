@@ -37,7 +37,7 @@ package caso3;
 
 		    public static void main(String[] args) {
 		        Scanner scanner = new Scanner(System.in);
-		        CuentaBancaria miCuenta = new CuentaBancaria("Luis Maguiña", 500.00);
+		        CuentaBancaria miCuenta = new CuentaBancaria("Jonathan Pita", 1500.00);
 
 		        miCuenta.mostrarSaldo();
 
