@@ -7,7 +7,7 @@ public class UsuarioSimple {
 		
 		Scanner scanner = new Scanner(System.in);
 	
-        System.out.println("Por favor, ingresa tu nombre:");
+        System.out.println("Por favor, ingresa solo tu primer apellido :");
         String nombre = scanner.nextLine();
 
         System.out.println("Ahora, ingresa tu edad:");
